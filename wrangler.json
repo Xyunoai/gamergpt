@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "gamergpt",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "ef0af8ac-6701-46fc-8311-5c56dcde8f63",
+			"database_name": "gamergpt"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
